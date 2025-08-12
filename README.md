@@ -36,11 +36,6 @@ agenda-contactos/
 ├── logout.php           # Script para cerrar sesión
 └── README.md            # Este archivo
 ```
-## clonacion
-para clonar
-git clone https://github.com/danielparkUI/App_Contactos.git
-
-
 ## Instalación
 
 ### Requisitos Previos
@@ -53,7 +48,7 @@ git clone https://github.com/danielparkUI/App_Contactos.git
 
 1. **Clonar o descargar el proyecto**
    ```bash
-   git clone [url-del-repositorio]
+   git clone [https://github.com/danielparkUI/App_Contactos.git]
    cd agenda-contactos
    ```
 
