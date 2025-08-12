@@ -36,6 +36,10 @@ agenda-contactos/
 ├── logout.php           # Script para cerrar sesión
 └── README.md            # Este archivo
 ```
+## clonacion
+para clonar
+git clone https://github.com/danielparkUI/App_Contactos.git
+
 
 ## Instalación
 
